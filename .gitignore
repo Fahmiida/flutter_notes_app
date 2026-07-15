@@ -1,0 +1,18 @@
+# Flutter
+.dart_tool/
+.idea/
+build/
+*.iml
+*.lock
+pubspec.lock
+.DS_Store
+*.log
+
+# Firebase
+firebase_options.dart
+*.p12
+*.p8
+*.plist
+GoogleService-Info.plist
+google-services.json
+firebase-debug.log
